@@ -14,3 +14,6 @@ Linkedin
 
 Portfolio Web
 
+<a href="https://www.linkedin.com/in/guido-rann-722458292/" target="_blank">
+  <img src="https://github.com/GuidoRann/GuidoRann/blob/main/assets/128423588/005a0d2e-5140-42f1-86b4-300b0f2d4186.png" alt="linkedin" height="40">
+</a>
