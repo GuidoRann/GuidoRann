@@ -6,10 +6,10 @@
 
 Habilidades: Java / Sring Boot / React / Javascript / Typescript / HTML / CSS / Tailwind
 
+Linkedin
+
 [<img src='https://github.com/GuidoRann/GuidoRann/assets/128423588/005a0d2e-5140-42f1-86b4-300b0f2d4186' alt='linkedin' height='40'>](https://www.linkedin.com/in/guido-rann-722458292/) 
 
-Mi Linkedin
+Portfolio web
 
 [<img src='https://github.com/GuidoRann/GuidoRann/assets/128423588/cdb39161-fa7a-465e-93b3-537e457ec97a' alt='brave' height='40'>](https://portfolio-henna-sigma-67.vercel.app/)
-
-Mi Portfolio web
